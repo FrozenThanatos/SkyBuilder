@@ -1,8 +1,47 @@
-
+{"classes": [
   {
     "class": "lightbinder",
     "id": 8 ,
     "talentdirectory":"\\Sources\Images\Talents\Lightbinder\Talents
     "url":"https://raw.githubusercontent.com/FrozenThanatos/SkyBuilder/master/classes/lightbinder"
-  }
-
+  },
+  {
+    "class": "alchemist",
+    "id": 1 ,
+    "talentdirectory":"\\Sources\Images\Talents\Alchemist\Talents
+    "url":"https://raw.githubusercontent.com/FrozenThanatos/SkyBuilder/master/classes/alchemist"
+  },
+  {"class": "archer",
+    "id": 2
+  },
+  {"class": "berserker",
+    "id": 3
+  },
+  {"class": "cryomancer",
+    "id": 4
+  },
+  {"class": "gunner",
+    "id": 5
+  },
+  {"class": "kinetic",
+    "id": 6
+  },
+  {"class": "knight",
+    "id": 7
+  },
+  {"class": "paladin",
+    "id": 9
+  },
+  {"class": "monk",
+    "id": 10
+  },
+  {"class": "necromancer",
+    "id": 11
+  },
+  {"class": "slayer",
+    "id": 12
+  },
+  {"class": "warlock",
+    "id": 13
+  },
+]
