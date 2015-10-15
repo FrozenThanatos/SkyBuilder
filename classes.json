@@ -2,13 +2,13 @@
   {
     "class": "lightbinder",
     "id": 8 ,
-    "talentdirectory":"Sources\Images\Talents\Lightbinder\Talents",
+    "talentdirectory":"Sources/Images/Talents/lightbinder/Talents",
     "url":"https://raw.githubusercontent.com/FrozenThanatos/SkyBuilder/master/classes/lightbinder"
   },
   {
     "class": "alchemist",
     "id": 1 ,
-    "talentdirectory":"Sources\Images\Talents\Alchemist\Talents",
+    "talentdirectory":"Sources/Images/Talents/Alchemist/Talents",
     "url":"https://raw.githubusercontent.com/FrozenThanatos/SkyBuilder/master/classes/alchemist"
   },
   {"class": "archer",
